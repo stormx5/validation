@@ -23,5 +23,8 @@ Important notes before running the prototype:
 	
 	
 	
-	
-	FiTwitterAPI.Java
+	Files:
+	TwitterAPI.Java - Twitter Test Class
+	DropBoxAPI.java - Dropbox test Class
+	SendEmail.java - Send Email class, Has a Subscriber email variable which should be filled with the email of the subscriber to receive the alarms.
+	App.java - Main method, calls to other classes
